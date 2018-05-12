@@ -1,0 +1,28 @@
+_repo: Confidences--Talks-With-a-Young-Girl-Concerning-Herself_14445
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lowry, E. B. (Edith Belle)
+    alias: Lowry, Edith Belle
+    birthdate: 1878
+    deathdate: 1945
+    gutenberg_agent_id: '5524'
+    url: http://www.gutenberg.org/2009/agents/5524
+description: ''
+gutenberg_bookshelf: Sociology
+gutenberg_issued: '2004-12-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14445'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sex instruction'
+- !lcc 'HQ'
+title: 'Confidences: Talks With a Young Girl Concerning Herself'
+url: http://www.gutenberg.org/ebooks/14445
